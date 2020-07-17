@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/03_mybatis_jndi" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01_eesy_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/01_mybatis_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/01_mybatis_design/pom.xml" />
+        <option value="$PROJECT_DIR$/02_mybatis_CRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/02_mybatis_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/03_mybatis_datasourceAndTx/pom.xml" />
+        <option value="$PROJECT_DIR$/03_mybatis_dynamicSql/pom.xml" />
+        <option value="$PROJECT_DIR$/03_mybatis_one2many/pom.xml" />
+        <option value="$PROJECT_DIR$/03_mybatis_many2many/pom.xml" />
+        <option value="$PROJECT_DIR$/../03_mybatis_jndi/pom.xml" />
+        <option value="$PROJECT_DIR$/03_mybatis_jndi/pom.xml" />
+        <option value="$PROJECT_DIR$/04_mybatis_01_lazy/pom.xml" />
+        <option value="$PROJECT_DIR$/04_mybatis_02_cache/pom.xml" />
+        <option value="$PROJECT_DIR$/04_mybatis_03_annotation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

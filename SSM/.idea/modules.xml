@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_eesy_mybatis/01_eesy_mybatis.iml" filepath="$PROJECT_DIR$/01_eesy_mybatis/01_eesy_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_mybatis_annotation/01_mybatis_annotation.iml" filepath="$PROJECT_DIR$/01_mybatis_annotation/01_mybatis_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_mybatis_design/01_mybatis_design.iml" filepath="$PROJECT_DIR$/01_mybatis_design/01_mybatis_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_mybatis_CRUD/02_mybatis_CRUD.iml" filepath="$PROJECT_DIR$/02_mybatis_CRUD/02_mybatis_CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_mybatis_dao/02_mybatis_dao.iml" filepath="$PROJECT_DIR$/02_mybatis_dao/02_mybatis_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_mybatis_datasourceAndTx/03_mybatis_datasourceAndTx.iml" filepath="$PROJECT_DIR$/03_mybatis_datasourceAndTx/03_mybatis_datasourceAndTx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_mybatis_dynamicSql/03_mybatis_dynamicSql.iml" filepath="$PROJECT_DIR$/03_mybatis_dynamicSql/03_mybatis_dynamicSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_mybatis_jndi/03_mybatis_jndi.iml" filepath="$PROJECT_DIR$/03_mybatis_jndi/03_mybatis_jndi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_mybatis_many2many/03_mybatis_many2many.iml" filepath="$PROJECT_DIR$/03_mybatis_many2many/03_mybatis_many2many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_mybatis_one2many/03_mybatis_one2many.iml" filepath="$PROJECT_DIR$/03_mybatis_one2many/03_mybatis_one2many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_mybatis_01_lazy/04_mybatis_01_lazy.iml" filepath="$PROJECT_DIR$/04_mybatis_01_lazy/04_mybatis_01_lazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_mybatis_02_cache/04_mybatis_02_cache.iml" filepath="$PROJECT_DIR$/04_mybatis_02_cache/04_mybatis_02_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_mybatis_03_annotation/04_mybatis_03_annotation.iml" filepath="$PROJECT_DIR$/04_mybatis_03_annotation/04_mybatis_03_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSM.iml" filepath="$PROJECT_DIR$/.idea/SSM.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01_mybatis_design" />
+        <module name="02_mybatis_dao" />
+        <module name="02_mybatis_CRUD" />
+        <module name="01_eesy_mybatis" />
+        <module name="03_mybatis_dynamicSql" />
+        <module name="04_mybatis_03_annotation" />
+        <module name="03_mybatis_one2many" />
+        <module name="01_mybatis_annotation" />
+        <module name="03_mybatis_jndi" />
+        <module name="04_mybatis_02_cache" />
+        <module name="03_mybatis_many2many" />
+        <module name="04_mybatis_01_lazy" />
+        <module name="03_mybatis_datasourceAndTx" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01_eesy_mybatis" target="1.5" />
+      <module name="01_mybatis_annotation" target="1.5" />
+      <module name="01_mybatis_design" target="1.5" />
+      <module name="02_mybatis_CRUD" target="1.5" />
+      <module name="02_mybatis_dao" target="1.5" />
+      <module name="03_mybatis_datasourceAndTx" target="1.5" />
+      <module name="03_mybatis_dynamicSql" target="1.5" />
+      <module name="03_mybatis_jndi" target="1.7" />
+      <module name="03_mybatis_many2many" target="8" />
+      <module name="03_mybatis_one2many" target="1.5" />
+      <module name="04_mybatis_01_lazy" target="1.5" />
+      <module name="04_mybatis_02_cache" target="1.5" />
+      <module name="04_mybatis_03_annotation" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

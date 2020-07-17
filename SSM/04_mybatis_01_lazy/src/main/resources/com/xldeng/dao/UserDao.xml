@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xldeng.dao.UserDao">
+<resultMap id="userAccountMap" type="user">
+<!--    一对多延迟加载-->
+    <id property="id"   column="id"></id>
+    <result property="username" column="username"></result>
+    <result property="birthday" column="birthday"></result>
+    <result property="sex" column="sex"></result>
+    <result property="address" column="address"></result>
+    <collection property="accounts" ofType="account" select="com.xldeng.dao.AccountDao.findAccountByUid" column="id"></collection>
+</resultMap>
+    <select id="findAll" resultMap="userAccountMap">
+        select * from user
+    </select>
+
+    <select id="findById" parameterType="int" resultType="user">
+        select * from user where id = #{uid}
+    </select>
+</mapper>
